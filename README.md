@@ -21,7 +21,7 @@ Die Neuedition ist nach dem TEI-Standard ([Schema des Patristic Text Archive](ht
 
 ## Kollationen
 
-Auf Grundlage der Transkriptionsdateien wurde mit Hilfe von [CollateX](https://collatex.net/) (und einem [Python-Script](https://github.com/PatristicTextArchive/collator)) eine Kollationstabelle erstellt. Diese liegt im Ordner [collation](collation) in zwei Fassungen vor und können im Browser betrachtet werden:
+Auf Grundlage der Transkriptionsdateien wurde mit Hilfe von [CollateX](https://collatex.net/) (und einem [Python-Script](https://github.com/PatristicTextArchive/collator)) eine Kollationstabelle erstellt. Diese liegt im Ordner [collation](collation) in zwei Fassungen vor, die im Browser betrachtet werden können:
 
 - [Kollation auf Basis des Buchstabenbestandes (normalisiert](collation/collation-without-diacritis.html)
 - [Kollation auf Basis des Textes mit Diakritika](collation/collation.html)
