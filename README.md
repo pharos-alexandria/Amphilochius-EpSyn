@@ -1,5 +1,7 @@
 # Eine kritische (Neu-)Edition der »Epistula synodalis« des Amphilochius von Ikonium
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3727095.svg)](https://doi.org/10.5281/zenodo.3727095)
+
 Die sog. »Epistula synodalis« des Amphilochius von Ikonium (CPG 3243; CPG 8596) lag bisher nur in dem vorkritischen Druck von J.B. Cotelier, Ecclesiae Graecae Monumenta II, Paris 1681, 99–104, und dessen Nachdrucken sowie bei C. Datema, Amphilochii Iconiensis Opera, Turnhout 1978 (Corpus Christianorum. Series Graeca 3), 219–221, vor.
 
 Wie schon B. Gain, Note sur l'Epistula Synodalis (CPG, t. II, no. 3243) d'Amphiloque d'Iconium, Sacris Erudiri 27, 1984, 19–25 festgestellt hat, verwendet Datema nicht alle bekannten Handschriften, die diesen Text überliefern, und gibt vor allem den Überlieferungsbefund (bzgl. der Edition Coteliers und der Handschrift Pg) falsch wieder.
