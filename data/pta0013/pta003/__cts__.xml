@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:pta:pta0013" urn="urn:cts:pta:pta0013.pta003" xml:lang="grc">
+	<ti:title xml:lang="lat">Epistula synodalis</ti:title>
+	<ti:edition xmlns:dct="http://purl.org/dc/terms/" xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/" workUrn="urn:cts:pta:pta0013.pta003" urn="urn:cts:pta:pta0013.pta003.pta-grc1">
+		<ti:label xml:lang="lat">Epistula synodalis</ti:label>
+		<ti:description xml:lang="mul">Annette von Stockhausen, Eine kritische (Neu-)Edition der »Epistula synodalis« des Amphilochius von Ikonium, 2020</ti:description>
+		<cpt:structured-metadata xml:lang="deu">
+			<dc:creator xml:lang="lat">Amphilochius Iconensis</dc:creator>
+			<dc:title xml:lang="lat">Epistula synodalis</dc:title>
+			<dc:contributor>Annette von Stockhausen</dc:contributor>
+			<dct:dateCopyrighted>2020</dct:dateCopyrighted>
+			<dct:bibliographicCitation>Annette von Stockhausen, Eine kritische (Neu-)Edition der »Epistula synodalis« des Amphilochius von Ikonium, 2020 [URL: http://pta-nemo.herokuapp.com/text/urn:cts:pta:pta0013.pta003.pta-grc1/full]</dct:bibliographicCitation>
+			<dc:publisher xml:lang="mul">Patristic Text Archive (BBAW)</dc:publisher>
+			<dc:format>application/tei+xml</dc:format>
+			<dct:created>2020</dct:created>
+		</cpt:structured-metadata>
+	</ti:edition>
+	<ti:translation xmlns:dct="http://purl.org/dc/terms/" xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/" workUrn="urn:cts:pta:pta0013.pta003" urn="urn:cts:pta:pta0013.pta003.pta-deu1" xml:lang="deu">
+		<ti:label xml:lang="lat">Epistula synodalis</ti:label>
+		<ti:description xml:lang="mul">Annette von Stockhausen, Eine kritische (Neu-)Edition der »Epistula synodalis« des Amphilochius von Ikonium, 2020</ti:description>
+		<cpt:structured-metadata xml:lang="deu">
+			<dc:creator xml:lang="lat">Amphilochius Iconensis</dc:creator>
+			<dc:title xml:lang="lat">Epistula synodalis</dc:title>
+			<dc:contributor>Annette von Stockhausen</dc:contributor>
+			<dct:dateCopyrighted>2020</dct:dateCopyrighted>
+			<dct:bibliographicCitation>Annette von Stockhausen, Eine kritische (Neu-)Edition der »Epistula synodalis« des Amphilochius von Ikonium, 2020, [URL: http://pta-nemo.herokuapp.com/text/urn:cts:pta:pta0013.pta003.pta-deu1/full]</dct:bibliographicCitation>
+			<dc:publisher xml:lang="mul">Patristic Text Archive (BBAW)</dc:publisher>
+			<dc:format>application/tei+xml</dc:format>
+			<dct:created>2020</dct:created>
+		</cpt:structured-metadata>
+	</ti:translation>
+	<ti:edition xmlns:dct="http://purl.org/dc/terms/" xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/" workUrn="urn:cts:pta:pta0013.pta003" urn="urn:cts:pta:pta0013.pta003.pta-msPs">
+		<ti:label xml:lang="lat">Epistula synodalis</ti:label>
+		<ti:description xml:lang="mul">Transcription of Ms. Parisinus Suppl. gr. 1020, f. 112r–114r
+		</ti:description>
+		<cpt:structured-metadata xml:lang="deu">
+			<dc:creator xml:lang="lat">Amphilochius Iconensis</dc:creator>
+			<dc:title xml:lang="lat">Epistula synodalis</dc:title>
+			<dc:contributor>Annette von Stockhausen</dc:contributor>
+			<dct:dateCopyrighted>2020</dct:dateCopyrighted>
+			<dct:bibliographicCitation>Amphilochius Iconensis, Epistula synodalis, transcription of Ms. Parisinus Suppl. gr. 1020, f. 112r–114r, Berlin 2020, [URL: http://pta-nemo.herokuapp.com/text/urn:cts:pta:pta0013.pta003.pta-msPs/full]</dct:bibliographicCitation>
+			<dc:publisher xml:lang="mul">Patristic Text Archive (BBAW)</dc:publisher>
+			<dc:format>application/tei+xml</dc:format>
+			<dct:created>2020</dct:created>
+		</cpt:structured-metadata>
+	</ti:edition>
+	<ti:edition xmlns:dct="http://purl.org/dc/terms/" xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/" workUrn="urn:cts:pta:pta0013.pta003" urn="urn:cts:pta:pta0013.pta003.pta-msLa">
+		<ti:label xml:lang="lat">Epistula synodalis</ti:label>
+		<ti:description xml:lang="mul">Transcription of Ms. Laurentianus Plut. IV 12, f. 131v–133v
+		</ti:description>
+		<cpt:structured-metadata xml:lang="deu">
+			<dc:creator xml:lang="lat">Amphilochius Iconensis</dc:creator>
+			<dc:title xml:lang="lat">Epistula synodalis</dc:title>
+			<dc:contributor>Annette von Stockhausen</dc:contributor>
+			<dct:dateCopyrighted>2020</dct:dateCopyrighted>
+			<dct:bibliographicCitation>Amphilochius Iconensis, Epistula synodalis, transcription of Ms. Laurentianus Plut. IV 12, f. 131v–133v, Berlin 2020, [URL: http://pta-nemo.herokuapp.com/text/urn:cts:pta:pta0013.pta003.pta-msLa/full]</dct:bibliographicCitation>
+			<dc:publisher xml:lang="mul">Patristic Text Archive (BBAW)</dc:publisher>
+			<dc:format>application/tei+xml</dc:format>
+			<dct:created>2020</dct:created>
+		</cpt:structured-metadata>
+	</ti:edition>
+	<ti:edition xmlns:dct="http://purl.org/dc/terms/" xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/" workUrn="urn:cts:pta:pta0013.pta003" urn="urn:cts:pta:pta0013.pta003.pta-msVi">
+		<ti:label xml:lang="lat">Epistula synodalis</ti:label>
+		<ti:description xml:lang="mul">Transcription of Ms. Vindobonensis theol. gr. 190, f. f. 113r–115r
+		</ti:description>
+		<cpt:structured-metadata xml:lang="deu">
+			<dc:creator xml:lang="lat">Amphilochius Iconensis</dc:creator>
+			<dc:title xml:lang="lat">Epistula synodalis</dc:title>
+			<dc:contributor>Annette von Stockhausen</dc:contributor>
+			<dct:dateCopyrighted>2020</dct:dateCopyrighted>
+			<dct:bibliographicCitation>Amphilochius Iconensis, Epistula synodalis, transcription of Ms. Vindobonensis theol. gr. 190, f. f. 113r–115r, Berlin 2020, [URL: http://pta-nemo.herokuapp.com/text/urn:cts:pta:pta0013.pta003.pta-msVi/full]</dct:bibliographicCitation>
+			<dc:publisher xml:lang="mul">Patristic Text Archive (BBAW)</dc:publisher>
+			<dc:format>application/tei+xml</dc:format>
+			<dct:created>2020</dct:created>
+		</cpt:structured-metadata>
+	</ti:edition>
+	<ti:edition xmlns:dct="http://purl.org/dc/terms/" xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/" workUrn="urn:cts:pta:pta0013.pta003" urn="urn:cts:pta:pta0013.pta003.pta-msPg">
+		<ti:label xml:lang="lat">Epistula synodalis</ti:label>
+		<ti:description xml:lang="mul">Transcription of Ms. Parisinus gr. 1327, f. 381v–383v
+		</ti:description>
+		<cpt:structured-metadata xml:lang="deu">
+			<dc:creator xml:lang="lat">Amphilochius Iconensis</dc:creator>
+			<dc:title xml:lang="lat">Epistula synodalis</dc:title>
+			<dc:contributor>Annette von Stockhausen</dc:contributor>
+			<dct:dateCopyrighted>2020</dct:dateCopyrighted>
+			<dct:bibliographicCitation>Amphilochius Iconensis, Epistula synodalis, transcription of Ms. Parisinus gr. 1327, f. 381v–383v, Berlin 2020, [URL: http://pta-nemo.herokuapp.com/text/urn:cts:pta:pta0013.pta003.pta-msPg/full]</dct:bibliographicCitation>
+			<dc:publisher xml:lang="mul">Patristic Text Archive (BBAW)</dc:publisher>
+			<dc:format>application/tei+xml</dc:format>
+			<dct:created>2020</dct:created>
+		</cpt:structured-metadata>
+	</ti:edition>
+</ti:work>
