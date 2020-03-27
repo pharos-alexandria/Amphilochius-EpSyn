@@ -34,4 +34,4 @@ Die (vom Python-Script erstellten) JSON-Inputdateien für CollateX liegen ebenfa
 
 Die Editionsdatei wurde mit Hilfe des Scripts [xml2edition-md.xsl](https://github.com/PatristicTextArchive/Stylesheets/blob/master/xml2edition-md.xsl) in eine Markdown-Datei transferiert, die dann mit Hilfe von [Pandoc](https://pandoc.org) in eine html-Datei konvertiert wurde.
 
-Diese Datei ([pta0013.pta003.pta-grc1.html](reader/pta0013.pta003.pta-grc1.html)) kann im Browser geöffnet und betrachtet werden.
+Diese Datei kann unter <https://pharos-alexandria.github.io/Amphilochius-EpSyn> betrachtet werden.
