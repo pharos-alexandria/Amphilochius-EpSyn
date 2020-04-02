@@ -28,7 +28,6 @@
       <sourceDesc>
         <listWit>
           <head>Conspectus codicum</head>
-          <listWit>
             <witness xml:id="Ps" corresp="pta0013.pta003.pta-msPs.xml">
               <abbr type="siglum">Ps</abbr>
               <name>Parisinus Suppl. gr. 1020</name>
@@ -53,7 +52,6 @@
               <origDate>a. 1562</origDate>
               <locus>f. 381v–383v</locus>
             </witness>
-          </listWit>
         </listWit>
         <listBibl>
           <head>Frühere Editionen</head>
@@ -110,6 +108,7 @@
           </p>
         </interpretation>
       </editorialDecl>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
@@ -126,7 +125,7 @@
   <text>
     <body>
       <div type="praefatio" xml:lang="deu">
-        <div n="1">
+        <div type="section" n="1">
           <head>Vorbemerkung</head>
           <p>Die sog. »Epistula synodalis« des Amphilochius von Ikonium (CPG 3243; CPG 8596) lag bisher nur in dem vorkritischen Druck von
             <ref target="#Cotelier">Cotelier</ref>
@@ -175,7 +174,7 @@
           <note>Die Neuedition ist nach dem TEI-Standard (<ref target="https://github.com/PatristicTextArchive/Schema">Schema des Patristic Text Archive</ref>
             in Version 1.3) erstellt und umfaßt in der digitalen Version neben der kritischen Edition auch die Transkriptionen der vier Handschriften sowie eine deutsche Übersetzung.</note>
         </div>
-        <div n="2">
+        <div type="section" n="2">
           <head>Überlieferung</head>
           <p>Der Brief ist unter den Briefen des Basilius von Caesarea überliefert. Es ist wahrscheinlich, dass  Amphilochius eine Abschrift des an uns unbekannte Adressaten versendeten Briefes an Basilius gesendet hat, und der Brief so in die Basilius-Überlieferung geraten ist.</p>
           <p>Nur die Handschrift
@@ -255,7 +254,7 @@
             ὁμονοίας τὴν ἐν τοῖς γράμμασιν ὑμῶν ὁμόνοιαν ἐδεξάμεθα. καὶ δι’ εὐχῆς μὲν ἦν ἡμῖν καὶ τὸν
             <app type="textcritical">
               <lem wit="#Ps #La #Pg">θαυμασιώτατον</lem>
-              <rdg wit="#Vi" cause="correction">θαυ<add place="above">μα</add>σιώτατον</rdg>
+              <rdg wit="#Vi">θαυ<add place="supralinear">μα</add>σιώτατον</rdg>
             </app>
             καὶ μετὰ πάσης αἰδοῦς ὀνομαζόμενον ἐπίσκοπον
             <persName ref="https://lobid.org/gnd/118637797">Βασίλειον</persName>
