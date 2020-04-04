@@ -133,10 +133,17 @@
               <ref target="#Cotelier">Cotelier</ref>
               verwendet dem »<ref target="https://archive.org/details/bub_gb_1Z5eE88JWfIC/page/n10">Elenchus Operum</ref>« (S. XXX) zufolge folgende Handschriften: »E MS. Reg. 507 &amp; Exemplari Harlaeano«, d.h.
               <ref target="#Pg">Pg</ref>
-              und
-              <ref target="#Ps">Ps</ref>. Die Lesarten der jeweils nicht für den Text verwendeten Handschrift werden dabei am Rand mit »Al.« angeführt. Meine Kollationen haben gezeigt, dass
+              (die alte Signatur „507“ ist auf f. 1r vermerkt) und
+              <ref target="#Ps">Ps</ref>
+              (vgl.
+              <bibl xml:id="Astruc" facs="https://gallica.bnf.fr/ark:/12148/bpt6k209139m/f114.image">Charles Astruc und Marie-Louise Concasty, Catalogue des manuscrits grecs. Troisième partie, Le supplément grec. Tome III, n° 901-1371, Paris 1960, 101.102</bibl>).
               <ref target="#Cotelier">Cotelier</ref>
-              den Befund in einigen Fällen fehlerhaft widergibt.</note>
+              druckt die Handschrift
+              <ref target="#Pg">Pg</ref>
+              ab und führt die Lesarten der Handschrift
+              <ref target="#Ps">Ps</ref>
+              am Rand mit »Al.« an; einzig γραμμάτων auf S. 100 steht nicht in
+              <ref target="#Pg">Pg</ref>, sondern beide Handschriften bieten das am Rande vermerkte πραγμάτων, weswegen diese Lesart, da sie sich in keiner der Handschriften findet, in der Edition als Konjektur Coteliers vermerkt ist.</note>
             und dessen Nachdrucken bei
             <ref target="#Baluze">Baluze</ref>
             (selbst nachgedruckt bei
@@ -168,22 +175,51 @@
               <ref target="#Datema">Datema</ref>
               übernommen –; und wenn er S. 22 (mit Anm. 12) behauptet, in
               <ref target="#Ps">Ps</ref>
-              sei der Titel des Briefes »τοῦ μακαρίου Βασιλείου ἐπισκόπου Καισαρείας Καππαδοκίας πρὸς Γρηγόριον ἐπίσκοπον Ναζιανζοῦ« und stünde zwischen ep. 202 und 200 des Basilius an Amphilochius, so ist das ebenfalls unzutreffend (und steht so auch nicht in dem Aufsatz von
-              <bibl xml:id="Bessieres" facs="https://doi.org/10.1093/jts/os-XXI.4.9">J. Bessières, La tradition manuscrite de la correspondance de Saint Basile, JThS 21, 1919, (9–50) 49 f.</bibl>, auf den Gain an der Stelle rekurriert).</note>
+              sei der Titel des Briefes »τοῦ μακαρίου Βασιλείου ἐπισκόπου Καισαρείας Καππαδοκίας πρὸς Γρηγόριον ἐπίσκοπον Ναζιανζοῦ« und stünde zwischen ep. 202 und 200 des Basilius an Amphilochius, so ist das ebenfalls unzutreffend (so schon der Katalog von
+              <ref target="#Astruc">Astruc, 100</ref>, der evtl.
+              <bibl xml:id="Rudberg">S. Y Rudberg, Etudes sur la tradition manuscrite de saint Basile, Lund 1953, 39</bibl>
+              falsch interpretiert;
+              <bibl xml:id="Bessieres" facs="https://doi.org/10.1093/jts/os-XXI.4.9">J. Bessières, La tradition manuscrite de la correspondance de Saint Basile, JThS 21, 1919, (9–50) 49 f.</bibl>
+              hat den Titel dagegen durchaus richtig).</note>
             Eine Neuedition war daher dringend geboten.</p>
           <note>Die Neuedition ist nach dem TEI-Standard (<ref target="https://github.com/PatristicTextArchive/Schema">Schema des Patristic Text Archive</ref>
-            in Version 1.3) erstellt und umfaßt in der digitalen Version neben der kritischen Edition auch die Transkriptionen der vier Handschriften sowie eine deutsche Übersetzung.</note>
+            in Version 1.3) erstellt und umfasst in der digitalen Version neben der kritischen Edition auch die Transkriptionen der vier Handschriften sowie eine deutsche Übersetzung.</note>
         </div>
         <div type="section" n="2">
           <head>Überlieferung</head>
-          <p>Der Brief ist unter den Briefen des Basilius von Caesarea überliefert. Es ist wahrscheinlich, dass  Amphilochius eine Abschrift des an uns unbekannte Adressaten versendeten Briefes an Basilius gesendet hat, und der Brief so in die Basilius-Überlieferung geraten ist.</p>
+          <p>Der Brief ist unter den Briefen des Basilius von Caesarea überliefert. Es ist wahrscheinlich, dass Amphilochius eine Abschrift des an uns unbekannte Adressaten versendeten Briefes an Basilius gesendet hat, und der Brief so in die Basilius-Überlieferung geraten ist.</p>
           <p>Nur die Handschrift
-            <ref target="#Ps">Ps</ref>, eine Sammlung von Briefen des Basilius von Caesarea, überliefert ihn als Nummer 128 der Sammlung unter dem Namen des Amphilochius,<note>Nicht zugänglich war die Handschrift Drama, Kosinitza 34 (heute wahrscheinlich Sofia, Centre du recherches slavo-byzantines ›Ivan Dujčev‹, D. gr. 220), s. XI; von <bibl>P.J. Fedwick, Bibliotheca Basiliana Universalis. A study of the manuscript tradition of the works of Basil of Caesarea. I: The letters, Corpus Christianorum. Claves – Subsidia, Turnhout 1993</bibl> wird sie als Handschrift Ev angeführt. Wahrscheinlich gehörte sie wie <ref target="#Ps">Ps</ref> zur Gruppe Bx der Überlieferung der Briefe des Basilius und enthielt daher ebenso unseren Brief.</note> während die drei in die Nachgeschichte der Synode von Ferrara/Florenz gehörenden Handschriften
+            <ref target="#Ps">Ps</ref>, eine Sammlung von Briefen des Basilius von Caesarea, überliefert ihn als Nummer 128 der Sammlung unter dem Namen des Amphilochius,<note>Vgl.
+              <ref target="#Astruc">Astruc</ref>, 100–102 und
+              <bibl xml:id="Fedwick">Paul Jonathan Fedwick, Bibliotheca Basiliana Universalis. A study of the manuscript tradition of the works of Basil of Caesarea. I: The letters, Corpus Christianorum. Claves – Subsidia, Turnhout 1993, 140–143</bibl>
+              (Ev1). Nicht zugänglich war die Handschrift Drama, Kosinitza 34 (heute Sofia, Centre du recherches slavo-byzantines ›Ivan Dujčev‹, D. gr. 220), s. XI, die von
+              <ref target="#Rudberg">Rudberg</ref>, 39, als zu vermutender Vertreter der Familie Bx der Briefe des Basilius (neben Ps) und von
+              <ref target="#Fedwick">Fedwick</ref>, 139–140.148 als Vertreter des Corpus Ev (Ev11) angeführt wird und wahrscheinlich ebenso unseren Brief enthielt.</note>
+            während die drei in die Nachgeschichte der Synode von Ferrara/Florenz gehörenden Handschriften
             <ref target="#La">La</ref>
             sowie
             <ref target="#Vi">Vi</ref>
             und
-            <ref target="#Pg">Pg</ref>, die in der Zusammenstellung der Texte eine »lateinische« Perspektive widerspiegeln, ihn fälschlicherweise als einen Brief des Basilius an Amphilochius in einer Reihe weiterer Briefe des Basilius an Amphilochius, nämlich ep. 233, 234, 235 vor unserem Brief und ep. 236 nach unserem Brief, überliefern.<note>Die Verbindung der Gruppe mit der Nachgeschichte der Synode von Ferrara/Florenz zeigt sich auch daran, dass <ref target="#La">La</ref> für die Serapionsbriefe des Athanasius auf den Codex Marcianus gr. 49 aus dem Besitz Bessarions zurückgegriffen hat, vgl. <bibl xml:id="Savvidis">K. Savvidis/D. Wyrwa, Athanasius Werke I/1 Die dogmatischen Schriften. Lfg. 4: Epistulae I–IV ad Serapionem, Berlin/Boston 2010, S. 396 f.</bibl>.</note></p>
+            <ref target="#Pg">Pg</ref>, die in der Zusammenstellung der Texte eine »lateinische« Perspektive widerspiegeln, ihn fälschlicherweise als einen Brief des Basilius an Amphilochius in einer Reihe weiterer Briefe des Basilius an Amphilochius überliefern.<note>Die Verbindung der Gruppe mit der Nachgeschichte der Synode von Ferrara/Florenz zeigt sich auch daran, dass
+              <ref target="#La">La</ref>
+              für die Serapionsbriefe des Athanasius auf den Codex Marcianus gr. 49 aus dem Besitz Bessarions zurückgegriffen hat, vgl.
+              <bibl xml:id="Savvidis">Kyriakos Savvidis/Dietmar Wyrwa, Athanasius Werke. Band I/Teil 1: Die dogmatischen Schriften. Lfg. 4: Epistulae I–IV ad Serapionem, Berlin/New York 2010, 396 f.</bibl> Die Sammlung der Basilius-Briefe in den drei Handschriften
+              <ref target="#La">La</ref>,
+              <ref target="#Vi">Vi</ref>
+              und
+              <ref target="#Pg">Pg</ref>
+              geht dabei durchaus auf das Corpus Ev zurück, ist aber durch ein eigenes Sammelinteresse, das sich auch in der anderen Zusammenstellung der Amphilochius-Briefe zeigt, charakterisiert: Während
+              <ref target="#Ps">Ps</ref>
+              die Epistula synodalis zwischen Bas., ep. 202 (f. 112r) und Bas., ep. 200 (f. 114r–115r) und anschließend ep. 236 (f. 115r–119r) überliefert, bieten
+              <ref target="#La">La</ref>
+              (und seine sukzessiven Abschriften
+              <ref target="#Vi">Vi</ref>
+              und
+              <ref target="#Pg">Pg</ref>) die Epistula synodalis als vierten Brief in der Reihe Bas., ep. 233, 234 und 235, der dann als 5. Brief noch Bas., ep. 236 folgt; Bas., ep. 202 und 200 fehlen dagegen in dieser Sammlung. Bas., ep. 233–235 werden in
+              <ref target="#Ps">Ps</ref>
+              ebenfalls überliefert, allerdings erst auf den ff. 251r–255v. Vgl.
+              <ref target="#Fedwick">Fedwick, 143.145–147</ref>.</note>
+          </p>
           <p>Dieser Umstand spiegelt sich auch in der klaren Zweiteilung der Textüberlieferung wieder, wobei
             <ref target="#Ps">Ps</ref>
             insgesamt den Text besser bewahrt als die drei anderen Handschriften.
@@ -193,8 +229,46 @@
             <ref target="#Pg">Pg</ref>
             sind Nachkommen eines gemeinsamen Vorfahren, der gegenüber
             <ref target="#Ps">Ps</ref>
-            an einigen Stellen Fehler macht: So werden <ref target="#app-001">τε καὶ ἀσάλευτον</ref> und <ref target="#app-002">χρὴ</ref> von diesen Handschriften ausgelassen.<note>Es gibt noch einige weitere Fehler, die aber auch als orthographische Varianten beurteilt werden könnten und hier aus diesem Grund nicht herangezogen werden.</note> <ref target="#Ps">Ps</ref> ist allerdings nicht die Vorlage der drei anderen Handschriften, da wohl der Schreiber der Handschrift selbst <ref target="#app-006">ἐκ</ref> ausradiert, während alle anderen Handschriften (und damit ihre gemeinsame Vorlage) das Wort bieten und die Lesart mit <ref target="#app-006">ἐκ</ref> als lectio difficilior zu werten ist.</p>
-          <p><ref target="#Vi">Vi</ref> und <ref target="#Pg">Pg</ref> sind gegenüber <ref target="#La">La</ref> (und <ref target="#Ps">Ps</ref>) durch die folgenden drei Fehler gebunden: <ref target="#app-003">ἄκανθα</ref> (sic!) statt ἄκανθαν, <ref target="#app-004">ἀνάγκης</ref> statt ἀνάγκη und schließlich durch die Nummerierung des Briefes im Titel als <ref target="#app-005">4. Brief</ref>. Daneben gibt es Sonderfehler von <ref target="#Pg">Pg</ref> gegenüber allen anderen Handschriften, aber keinen von <ref target="#Vi">Vi</ref>, so dass <ref target="#Pg">Pg</ref> als Abschrift von <ref target="#Vi">Vi</ref> anzusehen ist, die wiederum selbst eine Abschrift von <ref target="#La">La</ref> ist.<note>Diese Abhängigkeitsverhältnisse konnten auch <bibl>Kotter, Die Schriften des Johannes von Damaskos IV, Patristische Texte und Studien 22, Berlin/New York 1981, 345 f.348</bibl> und <ref target="#Savvidis">Savvidis</ref> anhand der von ihnen jeweils edierten Texte aufzeigen.</note></p>
+            an einigen Stellen Fehler macht: So werden
+            <ref target="#app-001">τε καὶ ἀσάλευτον</ref>
+            und
+            <ref target="#app-002">χρὴ</ref>
+            von diesen Handschriften ausgelassen.<note>Es gibt noch einige weitere Fehler, die aber auch als orthographische Varianten beurteilt werden könnten und hier aus diesem Grund nicht herangezogen werden.</note>
+            <ref target="#Ps">Ps</ref>
+            ist allerdings nicht die Vorlage der drei anderen Handschriften,<note>
+              Gegen
+              <ref target="#Fedwick">Fedwick, 146</ref>.</note>
+            da wohl der Schreiber der Handschrift selbst
+            <ref target="#app-006">ἐκ</ref>
+            ausradiert, während alle anderen Handschriften (und damit ihre gemeinsame Vorlage) das Wort bieten und die Lesart mit
+            <ref target="#app-006">ἐκ</ref>
+            als lectio difficilior zu werten ist.</p>
+          <p>
+            <ref target="#Vi">Vi</ref>
+            und
+            <ref target="#Pg">Pg</ref>
+            sind gegenüber
+            <ref target="#La">La</ref>
+            (und
+            <ref target="#Ps">Ps</ref>) durch die folgenden drei Fehler gebunden:
+            <ref target="#app-003">ἄκανθα</ref>
+            (sic!) statt ἄκανθαν,
+            <ref target="#app-004">ἀνάγκης</ref>
+            statt ἀνάγκη und schließlich durch die Nummerierung des Briefes im Titel als
+            <ref target="#app-005">4. Brief</ref>. Daneben gibt es Sonderfehler von
+            <ref target="#Pg">Pg</ref>
+            gegenüber allen anderen Handschriften, aber keinen von
+            <ref target="#Vi">Vi</ref>, so dass
+            <ref target="#Pg">Pg</ref>
+            als Abschrift von
+            <ref target="#Vi">Vi</ref>
+            anzusehen ist, die wiederum selbst eine Abschrift von
+            <ref target="#La">La</ref>
+            ist.<note>Diese Abhängigkeitsverhältnisse konnten auch
+              <bibl>Kotter, Die Schriften des Johannes von Damaskos IV, Patristische Texte und Studien 22, Berlin/New York 1981, 345 f.348</bibl>
+              und
+              <ref target="#Savvidis">Savvidis, 396 f.</ref> anhand der von ihnen jeweils edierten Texte aufzeigen.</note>
+          </p>
         </div>
       </div>
       <div type="edition" xml:lang="grc" n="urn:cts:pta:pta0013.pta003.pta-grc1">
